@@ -1,1 +1,1 @@
-This is the small project of the trping test using react with js instead of typescript. You can pull this project if you find good and wanted to use it as well. I am attaching the live link in the web to check it out- https://typing-test-reactapp.vercel.app/
+This is the small project of the typing test using react with js instead of typescript. You can pull this project if you find good and wanted to use it as well. I am attaching the live link in the web to check it out- https://typing-test-reactapp.vercel.app/
